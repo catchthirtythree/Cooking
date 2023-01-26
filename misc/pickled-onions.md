@@ -2,9 +2,19 @@
 
 ## Ingredients
 
+- 1 cup red wine vinegar
+- 1 cup water
+- 1 medium red onion
+- 6g salt
+- 6g sugar
+
 ## Steps
 
-## Reddit
+1. Add vinegar, water, salt and sugar to a pot and bring the mixture to a boil.
+1. Cut the onion into slices, from pole-to-pole.
+1. Combine the liquid and the onion into a glass jar and make sure the onions are submerged.
+
+## References
 
 - Yucatan style pickled onions are really good too. Instead of vinegar you use grapefruit, Orange and lime juice, add some salt, peppercorns, Bay leaves and allspice.
 

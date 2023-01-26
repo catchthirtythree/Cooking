@@ -1,4 +1,4 @@
-# Recipe
+# Red Sauce
 
 ## Ingredients
 
@@ -11,12 +11,12 @@
 
 ## Steps
 
-1. Step
-1. Step
-1. Step
-1. Step
-1. Step
-1. Step
+- Step
+- Step
+- Step
+- Step
+- Step
+- Step
 
 ## Notes
 

@@ -18,7 +18,7 @@
 1. Set a large to medium-high heat.
 1. Add a drizzle of olive oil.
 1. Saute garlic and spices until fragrant, continuously stirring so they do not burn.
-1. Add passata and scream.
+1. Add passata and cream.
 1. Reduce heat to simmar and cook, stirring occasionally for 2-3 minutes.
 1. Salt and pepper to taste.
 
