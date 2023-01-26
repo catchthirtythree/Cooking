@@ -1,5 +1,21 @@
 # Masala Chai
 
+---
+
+### @TODO: I have a completely different way of doing this nowadays. I have to update this.
+
+In short:
+
+1. I steep some spices in 1l of water for some time on the oven, let it chill, then add it to a container.
+1. I add black tea to some water in a container (2g tea : 200g water). I don't like the bitter of steeped black tea that much, I just want the flavour.
+1. I make a simple syrup with brown sugar and a tiny bit of vanilla extract and add it to a container.
+1. I mix some of the spice mixture, some of the cold brewed tea and some of the syrup to about 125ml of milk.
+1. I froth the whole thing with a steam wand. If I didn't have one, I would do it on the stove and ladle the mixture a bunch to create bubbles or just whisk it until I like the texture.
+
+I haven't quite figured out the measurements yet to make a chai that I like so I will update this the next time I get to doing it.
+
+---
+
 ## Ingredients
 
 - 200ml Water
