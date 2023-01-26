@@ -87,7 +87,6 @@ turkey gravy with parts
 - bring to a boil, then bare simmer for 45 minutes
 - strain through a fine mesh strainer
 - reserve stock until needed
-
 - melt some butter and a bit more than equal parts flour and cook stirring constantly until flour is golden brown
 - add about 4 cups of stock slowly
 - bring to a boil and reduce

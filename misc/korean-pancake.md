@@ -25,7 +25,7 @@
 
 - I use kkakdugi for this and it's quite amazing.
 - The plain browned scallions are more amazing than having the scallions in the kimchi in my opinion.
-- Make dang sure to make both sizes crunchy. It's fantastic.
+- Make dang sure to make both sides crunchy. It's fantastic.
 
 ## References
 
