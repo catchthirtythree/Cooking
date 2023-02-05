@@ -27,9 +27,6 @@ I haven't quite figured out the measurements yet to make a chai that I like so I
 - 20g Honey
 - Pinch of Salt
 
-<!-- @TODO(mheller): A way to do substitutes would be amazing  -->
-<!-- @TODO(mheller): A way to list sub-ingredients would be amazing so you could specify how much of a spice blend and what goes in it -->
-
 ## Steps
 
 1. Start heating a small pot on medium heat.
