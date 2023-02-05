@@ -2,16 +2,16 @@
 
 Naan Bread
 
-https://lilluna.com/homemade-naan-bread/
+- https://lilluna.com/homemade-naan-bread/
 
 Tapioca Pearls
 
 - Tapioca Starch
 - Water
 - Brown Sugar
-
-https://old.reddit.com/r/bubbletea/comments/m137d8/how_to_make_tapioca_pearls_with_perfect_texture/
-https://www.honestfoodtalks.com/how-to-make-tapioca-pearls/
+- https://old.reddit.com/r/bubbletea/comments/m137d8/how_to_make_tapioca_pearls_with_perfect_texture/
+- https://www.honestfoodtalks.com/how-to-make-tapioca-pearls/
+- I did this and it is not really worth it, fun to try though. I have so much tapioca starch left... Just buy online from bubbletea.org. Spend more time on the flavourings and making quick bubble teas.
 
 Mayonnaise (I didn't love this, try without garlic/with real garlic next time)
 
@@ -21,8 +21,7 @@ Mayonnaise (I didn't love this, try without garlic/with real garlic next time)
 - 1 medium clove garlic, minced
 - 1 cup (240ml) vegetable or canola oil
 - Kosher salt
-
-https://www.seriouseats.com/two-minute-mayonnaise
+- https://www.seriouseats.com/two-minute-mayonnaise
 
 Biang Biang Mian
 
@@ -30,13 +29,12 @@ Biang Biang Mian
 - White pepper
 - Shaoxing Wine
 - Black Vinegar
-
-https://junandtonic.com/blog/biang-biang-mian
+- https://junandtonic.com/blog/biang-biang-mian
 
 Foods
 
-https://old.reddit.com/r/Cooking/comments/xce8v8/to_me_the_mark_of_a_good_cookchef_is_being_able/
-https://old.reddit.com/r/Cooking/comments/xdbm3q/whats_on_the_menu_in_your_house_this_week/
+- https://old.reddit.com/r/Cooking/comments/xce8v8/to_me_the_mark_of_a_good_cookchef_is_being_able/
+- https://old.reddit.com/r/Cooking/comments/xdbm3q/whats_on_the_menu_in_your_house_this_week/
 
 grape tomato sauce pasta
 
@@ -47,3 +45,18 @@ baguette
 - https://www.youtube.com/watch?v=5FR__Gt0CSo (just yeast)
 - https://www.youtube.com/watch?v=efqe9Umxopc
 - https://www.youtube.com/watch?v=eQLTJLF89A4 (w/ poolish)
+
+Greek Chicken
+
+- https://theforkedspoon.com/greek-chicken-marinade/
+
+Mexican Rice
+
+Italian Ice
+
+- https://www.thespruceeats.com/lemon-ice-recipe-2018889
+
+Granola Bars
+
+- https://minimalistbaker.com/healthy-5-ingredient-granola-bars/
+- https://www.iheartnaptime.net/granola-bars/
