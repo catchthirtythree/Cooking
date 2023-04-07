@@ -3,7 +3,7 @@
 ## Ingredients
 
 - 100 parts Unbleached High-Protein Flour
-- 85 parts Warm Water
+- 75 parts Warm Water
 - 0.5 parts Active Dry Yeast
 - 2.3 parts Kosher Salt
 - A Damp Towel
@@ -36,3 +36,4 @@
 - High-Protein Flour is made-up of 13%+ protein. Five Roses All-Purpose Flour is 13.3% protein. King Arthur All-Purpose Flour is closer to 11%.
 - Warm Water is between 90F and 100F. Warm Water will help your yeast activate faster. If the temperature is above 105F, your yeast may die.
 - Make sure your yeast is still alive. I always put my yeast in 15-30g of water for 15-20 minutes while my dough autolyses.
+- I've been doing 75% hydration lately and have liked the results.
