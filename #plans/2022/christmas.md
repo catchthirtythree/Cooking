@@ -217,7 +217,7 @@ Turkey = 5.492 kg = 12.107787 lbs
 ##### Steps
 - Cut all of the veggies into small cubes.
 - Mix all of the veggies together, season with salt, pepper and oregano.
-- Lay all of the veggies on a roasting tray together and cook in a 425F oven for 25 minutes.
+- Lay all of the veggies on a roasting tray together and cook in a 450F oven for 25 minutes.
 - Take the veggies out and mix in the halloumi.
 - Let the mixture rest until room temperate / cool.
 - Build the wreath.

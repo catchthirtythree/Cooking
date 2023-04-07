@@ -19,9 +19,4 @@
 1. Step
 
 ## Notes
-
-- Notes.
-
-## Techniques
-
-- Techniques.
+## References

@@ -55,8 +55,3 @@ Mexican Rice
 Italian Ice
 
 - https://www.thespruceeats.com/lemon-ice-recipe-2018889
-
-Granola Bars
-
-- https://minimalistbaker.com/healthy-5-ingredient-granola-bars/
-- https://www.iheartnaptime.net/granola-bars/

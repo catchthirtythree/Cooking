@@ -21,7 +21,7 @@
 
 ## Notes
 
-- This recipe says it makes about 10 english muffins which means it makes ~70g muffins which I found to be quite small. I prefer to make 90-110g muffins.
+- This recipe says it makes about 10 english muffins which means it makes ~70g muffins which I found to be quite small. I prefer to make 90-105g muffins.
 - I prefer to do the last 5 minute cook covered as the insides of the muffins will still be raw if you cook them uncovered for longer. Just be careful that they don't burn on the bottoms.
 - I want to find a way to bake these.
 
